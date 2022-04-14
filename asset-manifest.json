@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/helloWorldRust/static/css/main.d87cbb72.chunk.css",
+    "main.js": "/helloWorldRust/static/js/main.3536371a.chunk.js",
+    "main.js.map": "/helloWorldRust/static/js/main.3536371a.chunk.js.map",
+    "runtime-main.js": "/helloWorldRust/static/js/runtime-main.fa1a1c58.js",
+    "runtime-main.js.map": "/helloWorldRust/static/js/runtime-main.fa1a1c58.js.map",
+    "static/js/2.00fa197d.chunk.js": "/helloWorldRust/static/js/2.00fa197d.chunk.js",
+    "static/js/2.00fa197d.chunk.js.map": "/helloWorldRust/static/js/2.00fa197d.chunk.js.map",
+    "static/js/3.2fb171e3.chunk.js": "/helloWorldRust/static/js/3.2fb171e3.chunk.js",
+    "static/js/3.2fb171e3.chunk.js.map": "/helloWorldRust/static/js/3.2fb171e3.chunk.js.map",
+    "index.html": "/helloWorldRust/index.html",
+    "static/css/main.d87cbb72.chunk.css.map": "/helloWorldRust/static/css/main.d87cbb72.chunk.css.map",
+    "static/js/2.00fa197d.chunk.js.LICENSE.txt": "/helloWorldRust/static/js/2.00fa197d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa1a1c58.js",
+    "static/js/2.00fa197d.chunk.js",
+    "static/css/main.d87cbb72.chunk.css",
+    "static/js/main.3536371a.chunk.js"
+  ]
+}
